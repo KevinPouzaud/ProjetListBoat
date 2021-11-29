@@ -9,7 +9,10 @@ Projet : Liste des différents bateaux ainsi que tout un tas d'informations à l
 Ce projet a été réalisé avec le langage Kotlin sur Android Studio.
 1. Afin de tester notre application vous devez installer [Android Studio](https://developer.android.com/studio/install).
 2. Ensuite il vous faut cloner notre projet sur votre machine depuis notre page Github, pour cela vous pouvez utiliser la commande suivante :
+```git clone https://github.com/KevinPouzaud/ProjetListBoat.git```. Vous pouvez aussi simplement téléchager notre projet au format compressé et le décompresser sur votre machine.
+3. Une fois le projet cloné sur votre machine, il vous suffit d'ouvrir notre application sur Android Studio : ```File -> Open -> path where you cloned the project```
 
+Le projet est maintenant installé et prêt à être utilisé.
 
 
 # Liste des types de bateaux
