@@ -4,13 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/drawable/boat_app_logo.xml" value="0.1" />
+        <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/drawable/ic_menu_boat_list.xml" value="0.1" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/app_bar_main.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/content_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/fragment_boat_list.xml" value="0.2" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/fragment_gallery.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/fragment_home.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/fragment_slideshow.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/item_and_type_of_boat.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/item_type_of_boat.xml" value="0.16" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/layout/nav_header_main.xml" value="0.5" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/menu/activity_main_drawer.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/kevin/Documents/LP-CDTL-DAM/Android/ProjetListeBateaux/Application/app/src/main/res/menu/main.xml" value="0.20520833333333333" />

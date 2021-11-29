@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModel
 class BoatListViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
-        value = "This is boat list Fragment"
+        value = "List of boat (scroll)"
     }
     val text: LiveData<String> = _text
 }
